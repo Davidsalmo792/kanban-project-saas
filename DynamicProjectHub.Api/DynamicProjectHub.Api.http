@@ -1,0 +1,6 @@
+@DynamicProjectHub.Api_HostAddress = http://localhost:5068
+
+GET {{DynamicProjectHub.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

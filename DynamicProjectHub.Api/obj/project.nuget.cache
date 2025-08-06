@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2a6P1d+6ZI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\DynamicProjectHub.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

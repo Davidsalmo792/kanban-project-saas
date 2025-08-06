@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tSib2XM7Tj3TXrwXqdcmejyx0Uypq+S9ZEYe5EBMa8g=",
+  "Source": "DynamicProjectHub.Api",
+  "BasePath": "_content/DynamicProjectHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
