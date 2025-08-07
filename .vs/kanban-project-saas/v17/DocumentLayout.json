@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DynamicProjectHub.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DynamicProjectHub.Api\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DynamicProjectHub.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\kanban-project-saas\\ClientApp\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,6 +23,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DynamicProjectHub.Api\\Models\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\UserProjectRole.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DynamicProjectHub.Api\\Models\\UserProjectRole.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\TaskColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DynamicProjectHub.Api\\Models\\TaskColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,8 +35,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DynamicProjectHub.Api\\Models\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\UserProjectRole.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DynamicProjectHub.Api\\Models\\UserProjectRole.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DynamicProjectHub.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,90 +61,120 @@
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DynamicProjectHub.Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DynamicProjectHub.Api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:14:17.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicProjectHub.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Program.cs",
+              "RelativeToolTip": "DynamicProjectHub.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:07:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserProjectRole.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\UserProjectRole.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\UserProjectRole.cs",
               "RelativeDocumentMoniker": "DynamicProjectHub.Api\\Models\\UserProjectRole.cs",
-              "ToolTip": "C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\UserProjectRole.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\UserProjectRole.cs",
               "RelativeToolTip": "DynamicProjectHub.Api\\Models\\UserProjectRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T19:21:52.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\Task.cs",
               "RelativeDocumentMoniker": "DynamicProjectHub.Api\\Models\\Task.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\Task.cs",
               "RelativeToolTip": "DynamicProjectHub.Api\\Models\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T19:21:07.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TaskColumn.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\TaskColumn.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\TaskColumn.cs",
               "RelativeDocumentMoniker": "DynamicProjectHub.Api\\Models\\TaskColumn.cs",
-              "ToolTip": "C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\TaskColumn.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\TaskColumn.cs",
               "RelativeToolTip": "DynamicProjectHub.Api\\Models\\TaskColumn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T19:19:52.126Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\Project.cs",
               "RelativeDocumentMoniker": "DynamicProjectHub.Api\\Models\\Project.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\Project.cs",
               "RelativeToolTip": "DynamicProjectHub.Api\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T19:19:05.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\User.cs",
               "RelativeDocumentMoniker": "DynamicProjectHub.Api\\Models\\User.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Models\\User.cs",
               "RelativeToolTip": "DynamicProjectHub.Api\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T19:18:34.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "angular.json",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\ClientApp\\angular.json",
               "RelativeDocumentMoniker": "ClientApp\\angular.json",
               "ToolTip": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\ClientApp\\angular.json",
               "RelativeToolTip": "ClientApp\\angular.json",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAnwIcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAnwGkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-06T19:23:14.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "DynamicProjectHub.Api\\Properties\\launchSettings.json",
@@ -146,10 +184,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-06T19:21:11.339Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

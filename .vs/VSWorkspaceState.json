@@ -3,8 +3,8 @@
     "",
     "\\DynamicProjectHub.Api",
     "\\DynamicProjectHub.Api\\Data",
-    "\\DynamicProjectHub.Api\\Models",
-    "\\DynamicProjectHub.Api\\Properties"
+    "\\DynamicProjectHub.Api\\Models"
   ],
+  "SelectedNode": "\\DynamicProjectHub.Api\\Data\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }

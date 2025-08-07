@@ -1,4 +1,7 @@
-﻿namespace DynamicProjectHub.Api.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace DynamicProjectHub.Api.Models
 {
     public class TaskColumn
     {

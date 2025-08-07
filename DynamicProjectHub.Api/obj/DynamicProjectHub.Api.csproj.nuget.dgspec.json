@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\DynamicProjectHub.Api.csproj": {}
+    "C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\DynamicProjectHub.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\DynamicProjectHub.Api.csproj": {
+    "C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\DynamicProjectHub.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\DynamicProjectHub.Api.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\DynamicProjectHub.Api.csproj",
         "projectName": "DynamicProjectHub.Api",
-        "projectPath": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\DynamicProjectHub.Api.csproj",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\DynamicProjectHub.Api.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\kanban-project-saas\\DynamicProjectHub.Api\\obj\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\kanban-project-saas\\DynamicProjectHub.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
