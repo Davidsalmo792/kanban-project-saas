@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\DynamicProjectHub.Api",
-    "\\DynamicProjectHub.Api\\Data",
-    "\\DynamicProjectHub.Api\\Models"
+    "\\DynamicProjectHub.Api\\Controllers"
   ],
-  "SelectedNode": "\\DynamicProjectHub.Api\\Data\\ApplicationDbContext.cs",
+  "SelectedNode": "\\DynamicProjectHub.Api\\Controllers\\TasksController.cs",
   "PreviewInSolutionExplorer": false
 }
