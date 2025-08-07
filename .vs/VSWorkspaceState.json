@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClientApp",
     "\\DynamicProjectHub.Api",
+    "\\DynamicProjectHub.Api\\Data",
+    "\\DynamicProjectHub.Api\\Models",
     "\\DynamicProjectHub.Api\\Properties"
   ],
   "PreviewInSolutionExplorer": false
