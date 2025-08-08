@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ClientApp",
+    "\\ClientApp\\.angular",
+    "\\ClientApp\\public",
+    "\\ClientApp\\src",
+    "\\ClientApp\\src\\app",
     "\\DynamicProjectHub.Api",
     "\\DynamicProjectHub.Api\\Controllers"
   ],
-  "SelectedNode": "\\DynamicProjectHub.Api\\Controllers\\TasksController.cs",
   "PreviewInSolutionExplorer": false
 }
