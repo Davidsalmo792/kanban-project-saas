@@ -18,8 +18,8 @@ export interface Task {
   id: number;
   title: string;
   description: string;
-  assignedTo: string; // The name of the assignee
-  status: string; // "To Do", "Doing", "Done"
+  assignedTo: string;
+  status: string;
   columnId: number;
   assignedToId: number;
 }
@@ -59,13 +59,11 @@ export class KanbanService {
   getUsers(): Observable<User[]> {
     return this.http.get<User[]>(`${this.apiUrl}Users`);
   }
-  // You would add more methods for users (create, update, delete) here as needed.
 
   // --- TaskColumns Endpoints ---
   getTaskColumns(): Observable<TaskColumn[]> {
     return this.http.get<TaskColumn[]>(`${this.apiUrl}TaskColumns`);
   }
-  // You would add more methods for task columns here.
 
   // --- Tasks Endpoints ---
   getTasks(): Observable<Task[]> {
