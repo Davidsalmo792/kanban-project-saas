@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClientApp",
-    "\\ClientApp\\.angular",
-    "\\ClientApp\\public",
-    "\\ClientApp\\src",
-    "\\ClientApp\\src\\app",
-    "\\DynamicProjectHub.Api",
-    "\\DynamicProjectHub.Api\\Controllers"
+    "\\DynamicProjectHub.Api\\Data",
+    "\\DynamicProjectHub.Api\\Migrations",
+    "\\DynamicProjectHub.Api\\Models",
+    "\\DynamicProjectHub.Api\\SeedData"
   ],
   "PreviewInSolutionExplorer": false
 }

@@ -1,30 +1,30 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+
 namespace DynamicProjectHub.Api.Models
-
-
 {
+    // This model represents a single task on the Kanban board.
     public class Task
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
-        public string Title { get; set; } = string.Empty;
+        [Required]
+        [StringLength(200)]
+        public string Title { get; set; }
 
-        [ForeignKey("ColumnId")]
-        public TaskColumn Column { get; set; } = default!;
+        public string? Description { get; set; } // Added description to match frontend
 
+        [Required]
+        public string Status { get; set; } // Added status to match frontend (e.g., To Do, Doing, Done)
+
+        public string AssignedTo { get; set; } // Added AssignedTo string
+
+        public int AssignedToId { get; set; } // Added a foreign key for the User model
+
+        // This is a foreign key to link the task to a specific column.
         public int ColumnId { get; set; }
 
-        [ForeignKey("ProjectId")]
-        public Project Project { get; set; } = default!;
-
-        public int ProjectId { get; set; }
-
-        [ForeignKey("AssignedToId")]
-        public User? AssignedTo { get; set; }
-
-        public int? AssignedToId { get; set; }
+        // This is a navigation property to the associated TaskColumn
+        public TaskColumn? Column { get; set; }
     }
 }

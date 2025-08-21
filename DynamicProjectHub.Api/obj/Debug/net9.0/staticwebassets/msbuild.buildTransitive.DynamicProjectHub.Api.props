@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\DynamicProjectHub.Api.props" />
-</Project>

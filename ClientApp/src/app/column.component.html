@@ -1,0 +1,14 @@
+<div class="flex-shrink-0 w-80 bg-white rounded-lg shadow-md p-4">
+  <div class="flex justify-between items-center mb-4">
+    <h2 class="text-lg font-semibold text-gray-700">{{ column.title }}</h2>
+    <span class="text-sm font-medium text-gray-500">{{ tasks.length }}</span>
+  </div>
+
+  <div class="space-y-4">
+    <app-task *ngFor="let task of tasks" [task]="task"></app-task>
+  </div>
+
+  <button class="mt-4 w-full py-2 px-4 bg-gray-200 text-gray-600 rounded-md hover:bg-gray-300 transition-colors duration-200">
+    + Add a task
+  </button>
+</div>

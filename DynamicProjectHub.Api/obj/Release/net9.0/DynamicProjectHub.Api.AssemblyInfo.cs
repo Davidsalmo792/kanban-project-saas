@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicProjectHub.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870c86a2b17e7f5a07fdec194e136a269dd17fc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9414dcb45efa09a2adb897a706489484ca2fc447")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicProjectHub.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicProjectHub.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
